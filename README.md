@@ -1,4 +1,3 @@
-🚀 Upgraded Version: Credit Card Fraud Detection System
 🔷 Project Title
 
 Credit Card Fraud Detection System using Machine Learning
