@@ -38,7 +38,7 @@ Credit card fraud refers to unauthorized use of card details for financial gain.
 
 ## 📊 Dataset Overview
 
-- 📍 Source: Kaggle  The dataset is taken from the [Kaggle Website](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+- 📍 Source: Kaggle. The dataset is taken from the [Kaggle Website](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - 📅 Time period: 2 days  
 - 📦 Total transactions: 284,807  
 - 🚨 Fraud cases: 492  
