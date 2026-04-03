@@ -1,6 +1,4 @@
-🔷 Project Title
-
-Credit Card Fraud Detection System using Machine Learning
+💳 Credit Card Fraud Detection System using Machine Learning
 
 🎯 Problem Statement
 
